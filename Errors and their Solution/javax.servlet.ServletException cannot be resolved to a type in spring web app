@@ -1,0 +1,7 @@
+Cause : Server may not configured successfully, this error usually happens whrn running the project for the first time.
+
+Solution :
+In Eclipse select your project → then click on project menu bar on top → goto to properties → 
+click on Targeted Runtimes → now you must select a check box next to the server you are using to run current project → 
+click Apply → then click OK button. That's it,
+
